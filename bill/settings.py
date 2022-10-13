@@ -24,7 +24,7 @@ SECRET_KEY = 'django-insecure-os0o@8nwjh#lvhaylq8@p4usn0)t*(*828*ok6e95u^paa9%vf
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['*']
+ALLOWED_HOSTS = ['*', "bill.trebuchet.one"]
 ADMIN_URL = "/admin"
 application_name = "bill"
 
